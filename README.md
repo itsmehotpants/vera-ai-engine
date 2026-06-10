@@ -1,4 +1,4 @@
-# Vera v4.0 — magicpin AI Challenge Submission
+# Vera v4.0 — magicpin AI Challenge 
 
 ## Team
 - **Name**: Naman
