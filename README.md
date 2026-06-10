@@ -51,6 +51,8 @@ uvicorn main:app --host 0.0.0.0 --port 8080
 export BOT_URL=http://localhost:8080
 python ../judge_simulator.py
 ```
+Another attempt
 
 
 doing some trial here 
+ 
